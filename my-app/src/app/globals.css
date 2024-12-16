@@ -1,0 +1,364 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shaddow_Y-1{
+    box-shadow: inset 0px -1px 0px 0px #E5E5E5;
+  }
+  
+  .typography {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 16px;
+    text-align: center;
+    color: #111111;
+  }
+  
+  .typography2 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    text-align: center;
+    color: #111111;
+  }
+  
+  .span-typography {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 24px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-underline-offset: 0px; 
+    color: #111111;
+  }
+  
+  .typography3 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #111111;
+  }
+  
+  .large-typography {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 60px;
+    text-align: center;
+    color: #111111;
+  }
+  
+  .typography4 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #111111;
+  }
+  
+  .button-text {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  
+  .typography5 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    color: #111111;
+  }
+  
+  
+  .typography8 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #757575;
+  }
+  
+  .typography9 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: right;
+    color: #111111;
+  }
+  
+  .typography10 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 28px;
+    color: #111111;
+  }
+  
+  .typography11 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 60px;
+    text-align: center;
+    color: #111111;
+  }
+  
+  .typography12 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #111111;
+  }
+  
+  .typography13 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  
+  
+  
+  .typography15 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+  }
+  
+  .typography16 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 52px;
+    line-height: 60px;
+    text-align: center;
+  }
+  
+  
+  .typography18 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    color: #757575;
+  }
+  
+.typography19 {
+  font-family: 'Poppins' , sans-serif;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 48px;
+  text-align: left;
+  color: #111111;
+}
+
+.typography20 {
+  font-family: 'Poppins' , sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: #111111;
+}
+
+.typography21 {
+  font-family: 'Poppins' , sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+}
+
+.typography22 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: center;
+}
+
+.typography23 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  color: #757575;
+}
+
+.typography24 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.typography25 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: left;
+  color: #111111;
+}
+
+.typography26 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+.typography27 {
+font-family: 'Helvetica Neue', sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+color: #111111;
+}
+
+.typography28 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 28px;
+  text-align: left;
+  color: #111111;
+}
+
+.typography29 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #757575;
+}
+
+.typography30 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color: #111111;  
+}
+
+.typography31 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+.shaddow_X1 {
+  box-shadow: inset 1px 0px 0px 0px #CCCCCC; 
+}
+
+.typography32 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: center;
+  color: #111111;  
+}
+
+.typography33 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  color: #111111;  
+}
+
+.typography34{
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  color: #9E3500;
+}
+
+.typography35 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #111111;  
+}
+
+.typography36 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  color: #111111;  
+}
+
+.typography37 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #757575;
+}
+
+.typography38 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: center;
+  color: #111111;  
+}
+
+.typography39 {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 24px;
+  color: #111111;  
+}
+
+.input {
+  border: 1px solid #E5E5E5;
+  border-radius: 3px;
+}
+
+.signin_heading{
+font-family: 'Helvetica Neue', sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 26px;
+}
